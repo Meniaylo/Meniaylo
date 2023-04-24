@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tatiana</a> 
-<img src="https://pa1.narvii.com/6951/c820166589bc71b31d4cecf097bf60e316588bcfr1-800-600_hq.gif" height="32"/></h1>
+<img src="https://github.com/Meniaylo/Meniaylo/blob/main/images/hello.gif" height="32"/></h1>
 <!--
 **Meniaylo/Meniaylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
