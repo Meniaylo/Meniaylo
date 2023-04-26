@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tatiana</a> 
-<img src="https://github.com/Meniaylo/Meniaylo/blob/main/images/hello.gif" height="32"/></h1>
+<img src="https://github.com/Meniaylo/Meniaylo/blob/main/images/hello.gif" height="60"/></h1>
 
 ### What I'm about here is:
 - enhancing my educational projects and seeking new ones,
@@ -9,8 +9,6 @@
 - want to collaborate with skilled, talented colleagues,
 - building a better life, of course - and, first and foremost, it is about inspiration and passion, not money.
 
-
-### My current stack:
 
 <!--
 **Meniaylo/Meniaylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
