@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Tatiana</a> 
-<img src="https://github.com/Meniaylo/Meniaylo/blob/main/images/hello.gif" height="60"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/tatiana.meniaylo/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Tatiana</a>
+<img src="https://github.com/Meniaylo/Meniaylo/blob/main/images/hello.gif" alt="waving hand" height="60"/>
+</h1>
+
 
 ### What I'm about here is:
 - enhancing my educational projects and seeking new ones,
