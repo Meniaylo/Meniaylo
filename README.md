@@ -22,7 +22,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/nodejs.svg" />
 <img align="left" alt="Express" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/express.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/mongodb.svg" />  
-
+<br/><br/>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/github.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/vscode.svg" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/figma.svg" />
