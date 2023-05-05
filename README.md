@@ -32,7 +32,7 @@
 </p>
 <br/><br/>
 
-### И еще немного обо мне:
+### Еще немного обо мне:
 <a href="https://www.instagram.com/tatiana.meniaylo/" title="Instagram">
 <img align="left" alt="Intagram" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/instagram.svg" />
 </a>
