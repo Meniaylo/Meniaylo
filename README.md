@@ -41,5 +41,5 @@
 </a>
 <br/><br/>
 
-### Циферки:
+### Я в циферках:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meniaylo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
