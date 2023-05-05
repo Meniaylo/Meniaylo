@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm Tatiana
+<h1 align="center">Привет, я Татьяна!
 <img src="https://github.com/Meniaylo/Meniaylo/blob/main/images/hello.gif" alt="waving hand" height="60"/>
 </h1>
 
 
-### What I'm about here is:
-- enhancing my educational projects and seeking new ones,
-- working with my code's conciseness and beauty (that will save the world, I'm sure),
-- going to master TypeScrypt and Vue (as soon as my brain is ready for it),
-- aspire to find stylish, beautiful product to care for and learn with,
-- want to collaborate with skilled, talented colleagues,
-- building a better life, of course - and, first and foremost, it is about inspiration and passion.
+### Я здесь, чтобы:
+- довести до ума учебне проекты и найти новые,
+- работать над лаконичностью и красотой своего кода,
+- постичь TypeScrypt и Vue (как только мой мозг будет в состоянии это сделать),
+- найти стильный и красивый продукт, о котором я буду заботиться и с которым буду учиться новому,
+- найти опытных, талантливых и вдохновляющих коллег,
+- сделать мир лучше, конечно - и собственный, и глобальный, насколько это возможно )
 <br/><br/>
 
-### My current stack:
+### Мой стек сейчас:
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/html5.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/css3.svg" />
 <img align="left" alt="JavaScript" title="javaScript" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/javascript.svg" />
@@ -32,7 +32,7 @@
 </p>
 <br/><br/>
 
-### A bit more about me:
+### И еще немного обо мне:
 <a href="https://www.instagram.com/tatiana.meniaylo/" title="Instagram">
 <img align="left" alt="Intagram" width="26px" src="https://github.com/Meniaylo/Meniaylo/blob/main/images/instagram.svg" />
 </a>
@@ -41,5 +41,5 @@
 </a>
 <br/><br/>
 
-### My stats:
+### Циферки:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meniaylo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -3,7 +3,7 @@
 </h1>
 
 
-### What I'm about here is !!!:
+### What I'm about here is:
 - enhancing my educational projects and seeking new ones,
 - working with my code's conciseness and beauty (that will save the world, I'm sure),
 - going to master TypeScrypt and Vue (as soon as my brain is ready for it),
