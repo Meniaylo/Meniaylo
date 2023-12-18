@@ -4,11 +4,11 @@
 
 
 ### What I'm about here is:
-- enhancing my educational projects and seeking new ones,
-- working with my code's conciseness and beauty (that will save the world, I'm sure),
-- going to master TypeScrypt and Vue (as soon as my brain is ready for it),
-- aspire to find stylish, beautiful product to care for and learn with,
-- want to collaborate with skilled, talented colleagues,
+- enhancing my educational projects and seeking new ones;
+- working with my code's conciseness and beauty (that will save the world, I'm sure);
+- going to master TypeScrypt and Vue (as soon as my brain is ready for it);
+- aspire to find stylish, beautiful product to care for and learn with;
+- want to collaborate with skilled, talented colleagues;
 - building a better life, of course - and, first and foremost, it is about inspiration and passion.
 <br/><br/>
 
